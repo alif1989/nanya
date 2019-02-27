@@ -9,8 +9,8 @@ print"=================================="
 #menanyakan 
 nama = raw_input("Nama kamu :")
 umur = input("Umur kamu :")
-Tinggal = input("Tinggal dimana :")
-pacar = input("nama pacar kamu:")
+Tinggal = raw_input("Tinggal dimana :")
+pacar = raw_input("nama pacar kamu:")
 
 #menjawab
 print"Nama Kamu:",nama 

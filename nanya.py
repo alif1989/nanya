@@ -4,7 +4,7 @@ print"\t \t TOOLS BY MUHAMMAD ALIF FEBRIAN ="
 print"\t \t INSTAGRAM : @MHMMD.ALIFF15     ="
 print"\t \t Note:Gunakan Dengan Baik.      ="
 print""
-print"======================================
+print"======================================"
 
 #menanyakan 
 nama = raw_input("Nama kamu :")

@@ -1,4 +1,4 @@
-print"=============== TOOLS BY MUHAMMAD ALIF FEBRIAN \n==============="
+print"=============== TOOLS BY MUHAMMAD ALIF FEBRIAN ==============="
 #menanyakan 
 nama = raw_input("Nama kamu :")
 umur = input("Umur kamu :")
@@ -13,5 +13,5 @@ print"nama pacar kamu adalah :",pacar
 
 print""
 print"JANGAN LUPA FOLLOW INSTAGRAM GUA @MHMMD.ALIFF15"
-
+print"============================================================"
 

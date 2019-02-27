@@ -1,10 +1,10 @@
-print"======================================"
-print"                                     ="
-print"\t \t TOOLS BY MUHAMMAD ALIF FEBRIAN ="
-print"\t \t INSTAGRAM : @MHMMD.ALIFF15     ="
-print"\t \t Note:Gunakan Dengan Baik.      ="
-print""
-print"======================================"
+print"=================================="
+print"                                 ="
+print"\tTOOLS BY MUHAMMAD ALIF FEBRIAN ="
+print"\tINSTAGRAM : @MHMMD.ALIFF15     ="
+print"\tNote:Gunakan Dengan Baik.      ="
+print"                                 ="
+print"=================================="
 
 #menanyakan 
 nama = raw_input("Nama kamu :")

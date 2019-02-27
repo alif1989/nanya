@@ -1,4 +1,4 @@
-print"===============/n TOOLS BY MUHAMMAD ALIF FEBRIAN \n==============="
+print"=============== TOOLS BY MUHAMMAD ALIF FEBRIAN \n==============="
 #menanyakan 
 nama = raw_input("Nama kamu :")
 umur = input("Umur kamu :")
